@@ -1,0 +1,22 @@
+table td {
+    height: 19px;
+    width: 127px;
+    border: 1px black solid;
+    padding: 10px;
+    
+}
+
+.tables {
+    display: flex;
+}
+
+table {
+    border-spacing: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+}
